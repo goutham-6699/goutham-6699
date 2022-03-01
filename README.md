@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Goutham, a candidate for Electrical and Computer Engineeering
-- 👀 I’m interested in ... </>
-- 🌱 I’m currently learning ... Machine Learning
-- 💞️ I’m looking to collaborate on ... Python, SQL, Embedded C
+- 👋 Hi, I’m Goutham.
+I'm a Computer Engineer with a specialization in Machine Learning and Algorithms.
+
+🌐 Languages: C, Python, VHDL, MATLAB
+💬 Communication Protocols: UART, I2C, SPI
+📡 Wireless: WiFi, Bluetooth, UWB
+☁️ IoT: MQTT, Zigbee, AWS IoT Core, AWS IoT Analytics, AWS Device Defender, Sagemaker.
+
 - 📫 How to reach me ...  saravanan.g@northeastern.edu
 
 <!---
